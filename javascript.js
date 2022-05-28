@@ -151,3 +151,4 @@ let firstname = "Iman"
 let lastname = new String("Khaki");
 console.log(typeof firstname);
 console.log(typeof lastname);
+console.log("hello");
